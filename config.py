@@ -1,0 +1,5 @@
+apiKey = "yout api key"
+secretKey = "yout secret key"
+mailAddress = ""
+password = ""
+sendTo = ""
